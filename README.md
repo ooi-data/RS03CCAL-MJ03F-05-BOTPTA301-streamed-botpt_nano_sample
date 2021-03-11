@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03CCAL-MJ03F-05-BOTPTA301-streamed-botpt_nano_sample
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: NANO Sensor Data Products<br>
+Instrument Group Code: BOTPT<br>
